@@ -13,10 +13,12 @@ Lynx features a rich set of CSS with optimization-focused extensions as its styl
 
 ## Projects
 
-| [Lynx](https://github.com/lynx-family/lynx) | <a href="https://github.com/lynx-family/lynx"><img alt="lynx" src="https://github.com/user-attachments/assets/de7b6ed1-600c-4f49-950d-772cac78036e"/></a> | [ReactLynx](https://github.com/lynx-family/lynx-stack) | <a href="https://github.com/lynx-family/lynx-stack"><img alt="ReactLynx" src="https://github.com/user-attachments/assets/974c1fef-8486-4ac8-91ac-2dfa9463ba06"/></a> |
+| [Lynx](https://github.com/lynx-family/lynx) | <a href="https://github.com/lynx-family/lynx"><img alt="lynx" src="https://github.com/user-attachments/assets/23e35f90-1506-4b1d-8114-6bb2b8b643e7"/></a> | [ReactLynx](https://github.com/lynx-family/lynx-stack) | <a href="https://github.com/lynx-family/lynx-stack"><img alt="ReactLynx" src="https://github.com/user-attachments/assets/ff3b0494-e301-4ea7-bf49-4c952274f0d9"/></a> |
 | :-: | :-: | :-: | :-: |
-| [Rspeedy](https://github.com/lynx-family/lynx-stack) | <a href="https://github.com/lynx-family/lynx-stack"><img alt="Rspeedy" src="https://github.com/user-attachments/assets/fb6b1eaa-fc86-4631-82a2-b6cdd65cd628"/></a> | [Lynx for Web](https://github.com/lynx-family/lynx-stack) | <a href="https://github.com/lynx-family/lynx-stack"><img alt="PrimJS" src="https://github.com/user-attachments/assets/30237db8-5224-4782-8997-55a04a4ff8fa"/></a> |
-| [Lynx Devtool](https://github.com/lynx-family/lynx-devtool) | <a href="https://github.com/lynx-family/lynx-devtool"><img alt="Devtool" src="https://github.com/user-attachments/assets/162b336c-a678-49f2-bcdc-f4f53fccfb48"/></a>  | [PrimJS](https://github.com/lynx-family/primjs) | <a href="https://github.com/lynx-family/primjs"><img alt="PrimJS" src="https://github.com/user-attachments/assets/c1ab7a48-06c2-48a7-a360-64ca53145f16"/></a> |
+| [Rspeedy](https://github.com/lynx-family/lynx-stack) | <a href="https://github.com/lynx-family/lynx-stack"><img alt="Rspeedy" src="https://github.com/user-attachments/assets/fd66cc73-a894-4085-b536-df393084ae21"/></a> | [Lynx for Web](https://github.com/lynx-family/lynx-stack) | <a href="https://github.com/lynx-family/lynx-stack"><img alt="Lynx for Web" src="https://github.com/user-attachments/assets/8a87c8ad-b3a6-4937-b728-fa4bcbd3bf56"/></a> |
+| [Lynx Devtool](https://github.com/lynx-family/lynx-devtool) | <a href="https://github.com/lynx-family/lynx-devtool"><img alt="Devtool" src="https://github.com/user-attachments/assets/732c3715-5502-4472-8c89-993ea818e2ab"/></a>  | [PrimJS](https://github.com/lynx-family/primjs) | <a href="https://github.com/lynx-family/primjs"><img alt="PrimJS" src="https://github.com/user-attachments/assets/2f542669-8aad-42ef-9de5-fd3d2f0797ae"/></a> |
+
+
 
 > We have more to offer in the future.
 
