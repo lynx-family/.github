@@ -1,5 +1,8 @@
 # Lynx
 
+Lynx is a family of cross-platform technologies that help you build truly native user experiences with a Web-friendly development experience.
+
+
 ## About Lynx
 
 #### 🚀 High Performance at Scale
