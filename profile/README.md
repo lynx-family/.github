@@ -27,6 +27,6 @@ Lynx features a rich set of CSS with optimization-focused extensions as its styl
 
 ## Follow us
 
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Flynxjs_org&style=social&label=Lynx)
+<a href="https://x.com/lynxjs_org">![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Flynxjs_org&style=social&label=Lynx)</a>
 
 
