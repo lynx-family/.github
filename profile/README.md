@@ -10,8 +10,4 @@ Lynx is a _family_ of open source technologies empowering developers to use thei
 
 We have more to offer in the future. Stay tuned!
 
-## Get Involved
-
-<a href="https://x.com/lynxjs_org">![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Flynxjs_org&style=social&label=Lynx)</a>
-
 
