@@ -13,7 +13,7 @@ We have more to offer in the future. Stay tuned!
 [2]: https://github.com/user-attachments/assets/23e35f90-1506-4b1d-8114-6bb2b8b643e7
 [3]: https://github.com/lynx-family/lynx-stack/tree/main/packages/react
 [4]: https://github.com/user-attachments/assets/ff3b0494-e301-4ea7-bf49-4c952274f0d9
-[5]: https://github.com/lynx-family/lynx-stack/tree/main/packages/rspeedy
+[5]: https://github.com/lynx-family/lynx-stack/tree/main/packages/rspeedy/core
 [6]: https://github.com/user-attachments/assets/fd66cc73-a894-4085-b536-df393084ae21
 [7]: https://github.com/lynx-family/lynx-stack/tree/main/packages/web-platform
 [8]: https://github.com/user-attachments/assets/8a87c8ad-b3a6-4937-b728-fa4bcbd3bf56
